@@ -1,0 +1,15 @@
+Anggota 1 (Yohanes Berkhmans Lasa/240403010026)
+- Repository GitHub
+- Dokumentasi
+
+Anggota 2 (Kornelius Jeviko Lahi/240403010024)
+- WordPress Container
+
+Anggota 3 (Leonardus M. P. A. Sambut/240403010020)
+- MariaDB & Volume
+
+Anggota 4 (Yohanes Jehuma/240403010030)
+- Docker Network
+
+Anggota 5 (Markus Gunawan Ambut/240403010009)
+- Testing & Screenshot
