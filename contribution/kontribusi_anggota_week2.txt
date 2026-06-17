@@ -1,0 +1,30 @@
+KONTRIBUSI ANGGOTA KELOMPOK
+Project Cloud Computing: Deployment WordPress Enterprise-Ready Berbasis Docker Container
+Milestone Minggu 2: Optimasi Performa & Object Storage
+
+Nama Kelompok: Kelompok Lembor
+
+Yohanes Berkhmans Lasa :
+1.Mengkonfigurasi Redis sebagai Caching Layer.
+2.Mengintegrasikan Redis dengan WordPress menggunakan Redis Object Cache.
+3.Melakukan pengujian status Redis hingga "Connected".
+
+Kornelius Jeviko Lahi :
+1.Mengkonfigurasi MinIO sebagai Object Storage.
+2.Membuat bucket "wordpress-media-lembor".
+3.Melakukan pengujian akses dan konektivitas MinIO.
+
+Leonardus M.P.A. Sambut :
+1.Menginstal dan mengkonfigurasi plugin Advanced Media Offloader.
+2.Menghubungkan WordPress dengan MinIO menggunakan S3 Compatible Storage.
+3.Menguji koneksi hingga status "Connected".
+
+Yohanes Jehuma :
+1.Melakukan pengujian upload media dari WordPress.
+2.Memastikan file media tersimpan otomatis ke bucket MinIO.
+3.Mengambil screenshot bukti integrasi WordPress dan MinIO.
+
+Markus Gunawan Ambut :
+1.Melakukan validasi seluruh container Docker (WordPress, MariaDB, Redis, MinIO).
+2.Mengelola repository GitHub dan melakukan commit progres Minggu 2.
+3.Mengumpulkan dan mengarsipkan screenshot hasil implementasi.
