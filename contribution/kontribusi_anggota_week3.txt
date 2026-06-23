@@ -1,0 +1,30 @@
+KONTRIBUSI ANGGOTA KELOMPOK
+Milestone Minggu 3: Hardening
+
+1. Yohanes Berkhmans
+
+   * Melakukan audit konfigurasi keamanan pada project Docker.
+   * Memastikan seluruh credential dipisahkan ke dalam file .env.
+   * Melakukan pengujian ulang deployment setelah penerapan .env.
+
+2. Markus Gunawan Ambut
+
+   * Memverifikasi konfigurasi database MariaDB menggunakan environment variables.
+   * Melakukan pengecekan tidak adanya hardcoded password pada docker-compose.yml.
+
+3. Kornelius Jeviko Lahi
+
+   * Memverifikasi konfigurasi MinIO menggunakan environment variables.
+   * Melakukan pengujian konektivitas layanan setelah hardening.
+
+4. Leonardus M.P.A. Sambut
+
+   * Melakukan pengujian layanan WordPress, Redis, dan MinIO setelah perubahan konfigurasi.
+   * Memastikan seluruh container berjalan normal.
+
+5. Yohanes Jehuma
+
+   * Mengelola repository GitHub.
+   * Mengunggah file kontribusi Minggu 3.
+   * Melakukan commit dan push hasil pekerjaan Milestone Minggu 3.
+
